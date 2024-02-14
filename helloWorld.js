@@ -1,2 +1,6 @@
-//chege hello world to GIT is awesome
-console.log("Git is Awesome")
+
+//Ask user to enter a message 
+
+let userInput = prompt("Please enter your message you want to display?")
+//Print user input
+console.log(userInput)
